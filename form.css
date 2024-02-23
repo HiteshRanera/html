@@ -1,0 +1,25 @@
+.text-white{
+    /* background-color: rgb(29, 54, 246); */
+    height: 210px;
+    background: rgb(5,14,15);
+    background: linear-gradient(90deg, rgba(5, 14, 15, 0.925) 18%, rgba(9,9,121,1) 48%, rgba(0, 213, 255, 0.797) 100%); 
+    
+}
+.font{
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    padding-left: 100px;
+    padding-top: 20px;
+    transition: background-color 2s ease-out 100ms
+    
+}
+
+  
+
+
+body{
+    background: rgb(40,193,210);
+    background: linear-gradient(90deg, rgba(40, 193, 210, 0.402) 14%, rgba(9,9,121,1) 44%, rgba(5, 14, 15, 0.82) 100%); 
+
+}
